@@ -1,52 +1,39 @@
-# Meu Site
+# 🌐 Portfólio Pessoal
 
-Este repositório contém o código-fonte de um site desenvolvido com **HTML**, **CSS**. O objetivo deste projeto é criar um portfólio pessoal responsivo e estilizado.
+Site de portfólio pessoal responsivo, desenvolvido com **HTML**, **CSS** e **JavaScript**. Apresenta seções de início, sobre, projetos e contato, com layout moderno e efeitos interativos.
 
-## Funcionalidades
+## ✨ Funcionalidades
 
-- Navbar com links de navegação interativos
-- Seções de Início, Sobre, Projetos e Contato
+- Navbar com navegação interativa
+- Seções: Início, Sobre, Projetos e Contato
 - Botões estilizados e efeitos de hover
-- Layout responsivo e moderno
+- Layout responsivo (mobile e desktop)
 - Integração com redes sociais
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias
 
-- **HTML5**: Estrutura da página
-- **CSS3**: Estilização avançada com animações e efeitos visuais
-- **JavaScript**: Funcionalidades dinâmicas
+- **HTML5** — estrutura
+- **CSS3** — estilização, animações e responsividade
+- **JavaScript** — interatividade
 
-## Como Executar o Projeto
+## ▶️ Como executar
 
-1. Clone este repositório:
+```bash
+git clone https://github.com/anwarquirino/portfolio.git
+cd portfolio
+```
 
-   ```bash
-   git clone https://github.com/anwarquirino/portfolio.git
-   ```
+Abra o arquivo `index.html` no navegador (ou sirva com `python -m http.server`).
 
-2. Acesse a pasta do projeto:
-
-   ```bash
-   cd portfolio
-   ```
-
-3. Abra o arquivo `index.html` no seu navegador.
-
-## Estrutura de Arquivos
+## 📁 Estrutura
 
 ```
 portfolio/
-│-- index.html      # Arquivo principal do site
-│-- styles.css      # Estilização do site
-│-- img/            # Pasta para armazenar imagens
-│-- README.md       # Documentação do projeto
+├── index.html      # Página principal
+├── styles.css      # Estilos
+└── img/            # Imagens
 ```
 
-## Contato
+## 📬 Contato
 
-Caso tenha dúvidas ou sugestões, entre em contato:
-📧 Email: [anwarquirino@gmail.com.com]
-
----
-
-
+📧 anwarquirino@gmail.com
