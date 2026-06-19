@@ -1,8 +1,8 @@
-# 🌐 Portfólio Pessoal
+# Portfólio Pessoal
 
 Site de portfólio pessoal responsivo, desenvolvido com **HTML**, **CSS** e **JavaScript**. Apresenta seções de início, sobre, projetos e contato, com layout moderno e efeitos interativos.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Navbar com navegação interativa
 - Seções: Início, Sobre, Projetos e Contato
@@ -10,13 +10,13 @@ Site de portfólio pessoal responsivo, desenvolvido com **HTML**, **CSS** e **Ja
 - Layout responsivo (mobile e desktop)
 - Integração com redes sociais
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - **HTML5** — estrutura
 - **CSS3** — estilização, animações e responsividade
 - **JavaScript** — interatividade
 
-## ▶️ Como executar
+## Como executar
 
 ```bash
 git clone https://github.com/anwarquirino/portfolio.git
@@ -25,7 +25,7 @@ cd portfolio
 
 Abra o arquivo `index.html` no navegador (ou sirva com `python -m http.server`).
 
-## 📁 Estrutura
+## Estrutura
 
 ```
 portfolio/
@@ -34,6 +34,6 @@ portfolio/
 └── img/            # Imagens
 ```
 
-## 📬 Contato
+## Contato
 
-📧 anwarquirino@gmail.com
+anwarquirino@gmail.com
