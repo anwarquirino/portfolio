@@ -1,20 +1,19 @@
 # Portfólio Pessoal
 
-Site de portfólio pessoal responsivo, desenvolvido com **HTML**, **CSS** e **JavaScript**. Apresenta seções de início, sobre, projetos e contato, com layout moderno e efeitos interativos.
+Site de portfólio pessoal de página única, desenvolvido com **HTML** e **CSS**. Apresenta seções de início, sobre, projetos e contato, com layout moderno e efeitos de hover.
 
 ## Funcionalidades
 
-- Navbar com navegação interativa
+- Navbar com navegação por âncoras
 - Seções: Início, Sobre, Projetos e Contato
-- Botões estilizados e efeitos de hover
-- Layout responsivo (mobile e desktop)
-- Integração com redes sociais
+- Cards de projetos com links para os deploys/repositórios
+- Botões estilizados e efeitos de hover com transições CSS
+- Links de contato (LinkedIn e telefone)
 
 ## Tecnologias
 
 - **HTML5** — estrutura
-- **CSS3** — estilização, animações e responsividade
-- **JavaScript** — interatividade
+- **CSS3** — estilização, Flexbox, transições e animações
 
 ## Como executar
 
