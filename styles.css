@@ -98,7 +98,12 @@ section div p {
     margin-bottom: 60px;
 }
 
-section div button {
+section div button,
+.botao-contato {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
     color: white;
     background: #f9004d;
     height: 50px;
@@ -109,7 +114,8 @@ section div button {
     cursor: pointer;
 }
 
-section div button:hover {
+section div button:hover,
+.botao-contato:hover {
     background-color: black;
     border: 3px solid #f9004d;
     transition: 0.5s;
@@ -129,8 +135,11 @@ section div button:hover {
 
 .card {
     background-color: #000000;
-    height: 365px;
+    min-height: 365px;
     width: 335px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     border-radius: 20px;
     padding: 20px 35px;
     text-align: center;
@@ -149,6 +158,7 @@ section div button:hover {
     color: #e2b9c6;
     margin-top: 20px;
     margin-bottom: 40px;
+    flex-grow: 1;
 }
 
 .card a {
@@ -168,8 +178,11 @@ section div button:hover {
 
 .card-projetos {
     display: flex;
-    justify-content: space-around;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
     margin-top: 100px;
+    padding: 0 20px;
 }
 
 footer {
